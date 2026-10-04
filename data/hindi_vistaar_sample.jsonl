@@ -1,0 +1,3 @@
+{"dataset":"vistaar-hindi","language":"hi-IN","ref_text":"मैं घर जा रहा हूँ","audio_path":"data/hindi/vistaar_0001.wav","duration_ms":3200}
+{"dataset":"vistaar-hindi","language":"hi-IN","ref_text":"आज मौसम बहुत अच्छा है","audio_path":"data/hindi/vistaar_0002.wav","duration_ms":2800}
+{"dataset":"vistaar-hindi","language":"hi-IN","ref_text":"कृपया अपना नाम बताइए","audio_path":"data/hindi/vistaar_0003.wav","duration_ms":2500}

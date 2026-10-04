@@ -1,0 +1,26 @@
+# Audio data (manifests are committed, audio is not)
+data/**/*.wav
+data/**/*.flac
+data/**/*.mp3
+data/**/*.ogg
+data/**/*.opus
+
+# Database
+*.db
+
+# Binary
+evalctl
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
